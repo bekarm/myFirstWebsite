@@ -13,10 +13,6 @@ body {
   display: none;
 }
 
-.about-mob {
-  display: none;
-}
-
 .flexbox-container {
   background-color: hsl(0, 0%, 100%);
   display: flex;
